@@ -1,8 +1,8 @@
-### DEBER 2
+##DEBER 2
 
-## Explicación códigos/deber2
+# Explicación códigos/deber2
 
-## Ejercicio1
+# Ejercicio1
 
 # Para crear carpeta
 
@@ -27,7 +27,8 @@
 - cat netsize.txt
 
 
-## Ejercicio 2
+# Ejercicio 2
+
 # Para crear carpeta
 - touch netsize_all.sh
 # Para revisar y escribir comandos dentro de la carpeta
