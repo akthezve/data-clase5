@@ -1,4 +1,4 @@
-##DEBER 2
+## DEBER 2
 
 # Explicación códigos/deber2
 
