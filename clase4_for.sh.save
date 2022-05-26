@@ -1,0 +1,10 @@
+#! /bin/bash
+
+# Inicio del loop
+for i in $1
+do
+	echo "$1 #impresion del nombre de la fila
+	rm $i # remocion de la variable temporal
+done
+
+
